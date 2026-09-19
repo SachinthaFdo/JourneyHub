@@ -23,7 +23,33 @@
   </div>
 </header>
 
+<main>
+  <section>
+    <div >
+      <div >
+        <div >03 — North Central Province</div>
+        <h2>Anuradhapura</h2>
+        <p >Sri Lanka's first great city, founded over two thousand years ago. Huge white stupas, ancient reservoirs and a sacred fig tree — grown from a cutting of the original Bodhi tree — still draw pilgrims today.</p>
+        <ul>
+          <li>Ruwanwelisaya and Jetavanaramaya stupas</li>
+          <li>The Sri Maha Bodhi sacred tree</li>
+          <li>Best explored slowly, by bicycle</li>
+        </ul>
+      </div>
+      <div >
+        <svg viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M50 15 L50 25" stroke="var(--paper)" stroke-width="2.5"/>
+          <circle cx="50" cy="10" r="4" stroke="var(--paper)" stroke-width="2.5"/>
+          <path d="M20 55 A30 30 0 0 1 80 55 Z" stroke="var(--paper)" stroke-width="2.5" stroke-linejoin="round"/>
+          <rect x="12" y="55" width="76" height="10" stroke="var(--paper)" stroke-width="2.5"/>
+          <rect x="20" y="65" width="60" height="18" stroke="var(--paper)" stroke-width="2.5"/>
+        </svg>
+      </div>
+    </div>
+  </section>
 
+  <a href="index.html#destinations">← Back to all destinations</a>
+</main>
 
 
 </body>

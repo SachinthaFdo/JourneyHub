@@ -142,7 +142,11 @@ nav.links a:hover, nav.links a.active{opacity:1; border-color:var(--spice);}
 @media (prefers-reduced-motion: reduce){ .pin circle.pulse{ animation:none; opacity:0; } }
 
 /* ---------- SECTION HEADS ---------- */
-.section{padding:86px 0;}
+.section{
+  padding:86px 0;
+  /* background: #000 */
+  
+}
 .section + .section{border-top:1px solid var(--line);}
 .section-head{max-width:60ch; margin-bottom:48px;}
 .section-head h2{font-size:clamp(28px, 3.6vw, 38px);}

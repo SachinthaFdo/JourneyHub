@@ -10,7 +10,7 @@
 
 <header>
   <div >
-    <a href="../index.html">Journey<span>Hub</span></a>
+    <a href="index.html">Journey<span>Hub</span></a>
     <nav class="links" aria-label="Destinations">
       <a href="../index.html">Home</a>
       <a href="sigiriya.html">Sigiriya</a>

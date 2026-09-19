@@ -4,15 +4,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Anuradhapura — Journey Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-
 
 <header>
   <div >
     <a href="index.html">Journey<span>Hub</span></a>
     <nav class="links" aria-label="Destinations">
-      <a href="../index.html">Home</a>
+      <a href="index.html">Home</a>
       <a href="sigiriya.html">Sigiriya</a>
       <a href="nuwara-eliya.html">Nuwara Eliya</a>
       <a href="anuradhapura.html" class="active">Anuradhapura</a>
@@ -51,8 +53,6 @@
   <a href="index.html#destinations">← Back to all destinations</a>
 </main>
 
-</body>
-
 <footer>
   <div >
     <div >Journey Hub</div>
@@ -60,6 +60,5 @@
   </div>
 </footer>
 
-
-
+</body>
 </html>

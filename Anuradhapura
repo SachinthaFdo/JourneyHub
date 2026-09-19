@@ -8,6 +8,23 @@
 <body>
 
 
+<header>
+  <div >
+    <a href="../index.html">Journey<span>Hub</span></a>
+    <nav class="links" aria-label="Destinations">
+      <a href="../index.html">Home</a>
+      <a href="sigiriya.html">Sigiriya</a>
+      <a href="nuwara-eliya.html">Nuwara Eliya</a>
+      <a href="anuradhapura.html" class="active">Anuradhapura</a>
+      <a href="galle.html">Galle</a>
+      <a href="jaffna.html">Jaffna</a>
+      <a href="trincomalee.html">Trincomalee</a>
+    </nav>
+  </div>
+</header>
+
+
+
 
 </body>
 
